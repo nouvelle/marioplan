@@ -10,6 +10,9 @@ const SignedOutLinks = () => {
       <li>
         <NavLink to="/signin">Login</NavLink>
       </li>
+      <li>
+        <a>Google Login</a>
+      </li>
     </ul>
   );
 };
