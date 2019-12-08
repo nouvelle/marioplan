@@ -14,8 +14,6 @@
 # firebase
 .firebase
 .firebaserc
-firebase.json
-/functions
 
 # misc
 .DS_Store
